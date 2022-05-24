@@ -5,8 +5,7 @@
 View [my personal homepage](https://b23.tv/PZr40g "Ziyang Jiang's personal homepage") on Bilibili            
 
 E-mail: <zyjiang0601@outlook.com>  
-Phone (Google Voice): +1(207)619-1888
-Phone (Google Voice): +1(218)666-8080
+Phone (Google Voice): +1(207)619-1888\nPhone (Google Voice): +1(218)666-8080
 Instagram: jiangziyang0601  
 Twitter: zyjiang0601  
 Telegram: <https://t.me/zyjiang0601>      
