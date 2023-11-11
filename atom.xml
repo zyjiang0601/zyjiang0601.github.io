@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://me.ziyangjiang.com</id>
+    <title>Ziyang’s Homepage</title>
+    <updated>2023-11-11T01:52:47.792Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://me.ziyangjiang.com"/>
+    <link rel="self" href="https://me.ziyangjiang.com/atom.xml"/>
+    <subtitle>江子扬的主页 | Preferred Name: Michael</subtitle>
+    <logo>https://me.ziyangjiang.com/images/avatar.png</logo>
+    <icon>https://me.ziyangjiang.com/favicon.ico</icon>
+    <rights>All rights reserved 2023, Ziyang’s Homepage</rights>
+</feed>
